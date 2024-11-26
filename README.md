@@ -7,11 +7,10 @@ The application is designed to handle dynamic data updates via API integration, 
 
 ## Features:
 
-Dynamic Dashboard: A user-friendly interface for managing [describe specific features, e.g., "roles and permissions"].
-Responsive Design: Ensures compatibility across various devices and screen sizes.
-API Integration: Fetch and display live data dynamically from a backend service.
-Reusable Components: Modular components for better code reusability and scalability.
-Optimized Performance: Implements React hooks and other optimizations for a smooth user experience.
+1) Dynamic Dashboard: A user-friendly interface for managing [describe specific features, e.g., "roles and permissions"].
+2) Responsive Design: Ensures compatibility across various devices and screen sizes.
+3) Reusable Components: Modular components for better code reusability and scalability.
+4) Optimized Performance: Implements React hooks and other optimizations for a smooth user experience.
 
 ## Prerequisites:
 
@@ -40,21 +39,5 @@ npm (comes with Node.js) or Yarn
 
        npm start
    
---Access the Application: Open your browser and go to http://localhost:3000.
+--Access the Application: Open your browser and go to http://localhost:5000.
 
-
-## Folder Structure:
-
-React-frontend(Assignment)/
-├── public/            # Public assets like index.html
-├── src/               # Source code
-│   ├── components/    # Reusable components
-│   ├── pages/         # Application pages
-│   ├── styles/        # CSS and styling files
-│   ├── utils/         # Utility functions
-│   ├── App.js         # Main application file
-│   └── index.js       # Entry point
-├── package.json       # Project metadata and dependencies
-└── README.md          # Project documentation
-
-## 
